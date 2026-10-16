@@ -1,0 +1,18 @@
+target/
+*.class
+*.log
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# Base H2 sur fichier (si l'URL JDBC est modifiee)
+*.db
+*.mv.db
+*.trace.db
